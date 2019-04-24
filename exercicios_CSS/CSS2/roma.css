@@ -1,0 +1,27 @@
+p{
+
+	background-color: rgba(255,255,255, 0.7);
+	border: 10px solid saddlebrown;
+	box-shadow: 1px 1px 1px 1px black, 1px 1px 1px 1px black inset;
+	border-radius: 50px;
+	width: 30%;
+	font-size: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 40px;
+	color: black;
+	margin: 100px;
+}
+
+body{
+	background-color: lightslategray;
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+/*.center{     
+  text-align: center;
+ */
+
+
+}

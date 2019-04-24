@@ -1,0 +1,18 @@
+p{
+	background-color: silver;
+	border: 10px solid black;
+	border-top-right-radius: 100px;
+	border-bottom-left-radius: 100px;
+	font-size: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 40px;
+	color: black;
+}
+
+
+/*.center{     
+  text-align: center;
+ */
+
+
